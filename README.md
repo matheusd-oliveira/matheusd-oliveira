@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Matheus Oliveira
 
 - 🌱 Estudando Flutter.
+- 📚 Estudando C# e .Net.
 
 <div align="center">
   <a href="https://github.com/matheusd-oliveira">
