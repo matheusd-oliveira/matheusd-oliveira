@@ -2,6 +2,7 @@
 
 - 🌱 Estudando Flutter.
 - 📚 Estudando C# e .Net.
+- 📫 Meu email para contato é matheussilvaolveira@gmail.com
 
 <div align="center">
   <a href="https://github.com/matheusd-oliveira">
