@@ -16,7 +16,8 @@
   <img align="center" alt="Teu-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Teu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Teu-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" >
-  <img align="right" alt="Teu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/800892630342828073/951664262433112064/imagem1.png">
+  <img align="right" alt="Teu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1012465346835394600/1024073265364340837/download20220901184044.png">
+  
 </div>
  
 ##
